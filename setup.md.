@@ -1,0 +1,29 @@
+# Setup Instructions and Code for rahmanies-deals
+
+This document contains the necessary code and instructions to set up your project.
+
+## 1. Create `guidelines.json` in the `data` directory
+
+```json
+{
+    "note": "kuch deals main bus order form nhi hoti h...",
+    "rules": [
+        "Filling order form is compulsory.",
+        "Refund form is also mandatory.",
+        "1 day main 1 se jyada review yaa rating mat hi kro.",
+        "Complete your deleivrables on time.",
+        "Dhyan rakhna Amazon review option available rahe.",
+        "Blocked account not allowed.",
+        "Follow your Mediator guidelines everytime.",
+        "3 days se phle review kroge toh account udd jayega.",
+        "Patience is mandatory.",
+        "Koshish karo month main 10-11 orders se jyada mat kro ek hi account se.",
+        "Strictly Deleivrables complete on time = refund.",
+        "Filling order / refund form is compulsory.",
+        "5 star rating desktop mode main kro.",
+        "Order krne se phle ek baar confirm krlo ki slots still available or not.",
+        "Miss call + dm if not responding. and wait.",
+        "Return or replacement not allowed without my confirmation.",
+        "Mediators are mandatory to pay further after verification."
+    ]
+}
